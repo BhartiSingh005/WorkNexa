@@ -1,6 +1,6 @@
-# User Registration & Login System
+# WorkNexa — User Registration & Login System
 
-A Flask-based user authentication system with Neon PostgreSQL database, deployed on Render.
+A Flask-based user authentication system (WorkNexa) with Neon PostgreSQL database, deployed on Render.
 
 ## Features
 - User registration with validation (username: 4–25 chars, password: min 6 chars)
@@ -20,8 +20,8 @@ A Flask-based user authentication system with Neon PostgreSQL database, deployed
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/BhartiSingh005/B2_Fullstack.git
-   cd B2_Fullstack
+   git clone https://github.com/BhartiSingh005/WorkNexa.git
+   cd WorkNexa
    ```
 
 2. **Create virtual environment**
@@ -62,7 +62,7 @@ A Flask-based user authentication system with Neon PostgreSQL database, deployed
 
 ## Project Structure
 ```
-B2_Fullstack/
+WorkNexa/
 ├── app/
 │   ├── model/
 │   │   ├── __init__.py
@@ -121,8 +121,8 @@ B2_Fullstack/
 
 ### Render Deployment (Current)
 The application is deployed on Render using `render.yaml` with:
-- **Service name**: `b2-bharti-flask`
-- **Database name**: `b2-bharti-db`
+- **Service name**: `worknexa-flask`
+- **Database name**: `worknexa-db`
 - **Build Command**: `pip install -r requirements.txt`
 - **Start Command**: `gunicorn wsgi:app`
 - **Environment Variables**:
