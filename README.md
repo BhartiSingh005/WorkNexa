@@ -145,5 +145,11 @@ For other platforms:
 3. Configure proper database credentials
 4. Set a strong `SECRET_KEY`
 
+## 🛠️ Tech Stack
+- **Backend:** Python, Flask
+- **Database:** PostgreSQL (Neon)
+- **Security:** Flask-Bcrypt, Flask-WTF
+- **Deployment:** Render
+
 ## License
 MIT
