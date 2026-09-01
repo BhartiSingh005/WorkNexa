@@ -16,6 +16,7 @@ A Flask-based user authentication system (WorkNexa) with Neon PostgreSQL databas
 - Email validation
 - Deployment on Render
 
+
 ## Local Development Setup
 
 1. **Clone the repository**
