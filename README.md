@@ -1,18 +1,5 @@
 # WorkNexa — User Registration & Login System
 
-> Last updated: 2026-09-02 — README updated to record today's contribution.
-
-## Contributing
-
-We welcome contributions. To contribute specifically to today's work (2026-09-02):
-
-- Fork the repository.
-- Create a branch named `contribution/2026-09-02-yourname`.
-- Make small, focused commits and mention "Today's commits (2026-09-02)" in your pull request description.
-- Open a pull request against the repository's default branch and request a review.
-
-If you're unsure what to change, open an issue describing your idea and reference the commit(s) you want to build on.
-
 A Flask-based user authentication system (WorkNexa) with Neon PostgreSQL database, deployed on Render.
 
 ## Features
