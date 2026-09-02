@@ -1,5 +1,7 @@
 # WorkNexa — User Registration & Login System
 
+> Last updated: 2026-09-02 — README updated to record today's contribution.
+
 A Flask-based user authentication system (WorkNexa) with Neon PostgreSQL database, deployed on Render.
 
 ## Features
